@@ -2,7 +2,7 @@ library(dplyr)
 library(ggplot2)
 library(tidyverse)
 
-order_data <- read.csv("order_data.csv", header = TRUE, stringsAsFactors = FALSE)
+order_data <- read.csv(".data/order_data.csv", header = TRUE, stringsAsFactors = FALSE)
 
 order_data <- order_data %>%
   mutate(food_value = coalesce(as.numeric(food_value),0),
