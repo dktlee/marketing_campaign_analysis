@@ -14,4 +14,4 @@ Questions:
 5) Based on the available information, would you recommend that we launch a similar campaign in other markets?
 
 ### *Disclaimer:* 
-The data set is fake/simulated data and the company will remain anonymous for privacy concerns.
+The data set is fake/simulated data and the company is anonymous for privacy concerns.
